@@ -1,4 +1,4 @@
-# Docling Converter – Documentation
+# Docling Converter 
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@
 
 **Docling Converter** is a [Streamlit](https://streamlit.io/) web application that leverages the powerful **[Docling](https://github.com/axiros/docling)** library to convert a variety of document formats into Markdown, JSON, or YAML. It supports PDF (with optional OCR), Word, HTML, PowerPoint, images, AsciiDoc, and Markdown sources.
 
-The live demo is available at: <https://doclingconvert.streamlit.app/>.
+The demo is available at: <https://doclingconvert.streamlit.app/>.
 
 ---
 
